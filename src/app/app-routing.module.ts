@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { EditeducacionComponent } from ',/components/educacion/editeducacion.component';
-import { NeweducacionComponent } from ',/components/educacion/neweducacion.component';
-import { EditExperienciaComponent } from './components/experiencia/edit-experiencia.component';
-import { NewExperienciaComponent } from './components/experiencia/new-experiencia.component';
+import { EditeducacionComponent } from './components/educacion/editeducacion/editeducacion.component';
+import { NeweducacionComponent } from './components/educacion/neweducacion/neweducacion.component';
+import { EditExperienciaComponent } from './components/experiencia/edit-experiencia/edit-experiencia.component';
+import { NewExperienciaComponent } from './components/experiencia/new-experiencia/new-experiencia.component';
 import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/login/login.component';
 
